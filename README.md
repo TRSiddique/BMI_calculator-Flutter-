@@ -3,5 +3,5 @@
 A new Flutter project.
 BMI Calculator
 
-| ![s1](assets/s1.png) | ![s2](assets/s2.png) | ![s3](assets/s3.png) |
+| ![s1](s1.png) | ![s2](s2.png) | ![s3](s3.png) |
 |---|---|---|
